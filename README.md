@@ -2,7 +2,7 @@
 
 Web Programming with Python and JavaScript
 
-This is a project submitted by Suleiman Ibrahim satisfying the demands of project 0.
+This is a project submitted satisfying the demands of project 0.
 The website created is a shoppoing website that contains five other links leading to the other part of the website.
 The project0 folder contained in this website contains all the files needed to make the website functioning properly.
 Some of the files include images, 2 .css and .scss files, 7 html files.
